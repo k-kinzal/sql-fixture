@@ -12,7 +12,7 @@
     "brianium/paratest": "^6.11 || ^7",
     "friendsofphp/php-cs-fixer": "^3.92",
     "infection/infection": "^0.28 || ^0.29 || ^0.30 || ^0.31 || ^0.32",
-    "k-kinzal/sql-faker": "@dev",
+    "k-kinzal/sql-faker": "^0.1",
     "k-kinzal/testcontainers-php": "^0.5.1",
     "nikic/php-fuzzer": "^0.0.11",
     "phpstan/phpstan": "^2.1",
